@@ -2,6 +2,6 @@
 
 Applied:
 <br>1.Cucumber
-  1.2 Cucumber io reports applied
-2.Maven
-3.Page Object Model
+  <br>1.2 Cucumber io reports applied
+<br>2.Maven
+<br>3.Page Object Model
